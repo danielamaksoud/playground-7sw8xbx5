@@ -3,7 +3,11 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+quantia = 1143;
+total = 2540;
+porcentagem = quantia/total;
+
+print("A quantia de", quantia, "equivale a", porcentagem*100, "% de", total);
 ```
 
 # Advanced usage
